@@ -9,7 +9,7 @@
 |               |        |
 | ------------- | ------------- |
 | Prerequisites | Basic programming knowledge                              | List all new or modified files |
-| Instructor    | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
+| Instructor    | [Mehtab Alam](https://www.linkedin.com/in/mehtabalam1/) |
 | Duration      | 6 Months                                                 |
 | Stack         | `OP stack  (OpenAI + Pinecone)`                          |
 
